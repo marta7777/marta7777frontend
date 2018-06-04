@@ -1,0 +1,32 @@
+.header {
+    height: 50px;
+    background-color: red;
+    text-align: center;
+}
+
+.content {
+    height: 800px;
+    width: 800px;
+    margin: 0 auto;
+}
+
+.content-head {
+    height: 200px;
+    background-color: green;
+}
+
+.col {
+    width: 400px;
+    float: left;
+    background: gray;
+    height: 600px;
+}
+
+.col:last-child {
+    background: aqua;
+}
+
+.footer {
+height: 50px;
+background-color: brown  
+}
